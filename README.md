@@ -10,10 +10,10 @@ https://github.com/creationix/nvm/issues/576
 
 Add these two line into ~/.bashrc_profile file
 
-'''
+```
 export NVM_DIR=~/.nvm
 source ~/.nvm/nvm.sh
-'''
+```
 
 ## Where is my ~/.bashrc_profile?
 you should create this file under ~ (root file)
