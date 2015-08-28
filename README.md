@@ -9,6 +9,7 @@ This is jiro9611 mac environment setting, which including software tools install
 https://github.com/creationix/nvm/issues/576
 
 Add these two line into ~/.bashrc_profile file
+
 '''
 export NVM_DIR=~/.nvm
 source ~/.nvm/nvm.sh
